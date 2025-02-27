@@ -26,9 +26,9 @@ A simple BMI calculator application built with PyQt. Users can input their weigh
 
 ## Screenshots
 - Example 1: BMI = 21.14 (Normal)
-![Proof_1](Снимок экрана 2025-02-27 173535.png)
+- ![Proof_1](Снимок экрана 2025-02-27 173535.png)
 - Example 2: BMI = 33.03 (Obese)
-![Proof2](Снимок экрана 2025-02-27 173547.png)
+- ![Proof2](Снимок экрана 2025-02-27 173547.png)
 
 ## License
 MIT License
